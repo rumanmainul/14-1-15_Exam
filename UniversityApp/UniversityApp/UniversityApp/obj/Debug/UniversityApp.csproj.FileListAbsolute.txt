@@ -1,0 +1,14 @@
+E:\Nerd Castle\OOP 51st Batch\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+E:\Fdrive\ftfl c#\14-1-15_exam\UniversityApp\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe.config
+E:\Fdrive\ftfl c#\14-1-15_exam\UniversityApp\UniversityApp\UniversityApp\bin\Debug\UniversityApp.exe
+E:\Fdrive\ftfl c#\14-1-15_exam\UniversityApp\UniversityApp\UniversityApp\bin\Debug\UniversityApp.pdb
+E:\Fdrive\ftfl c#\14-1-15_exam\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csprojResolveAssemblyReference.cache
+E:\Fdrive\ftfl c#\14-1-15_exam\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.CourseEnrollmentUI.resources
+E:\Fdrive\ftfl c#\14-1-15_exam\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.CourseEntryUI.resources
+E:\Fdrive\ftfl c#\14-1-15_exam\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.DepartmentEntryUI.resources
+E:\Fdrive\ftfl c#\14-1-15_exam\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.MainUI.resources
+E:\Fdrive\ftfl c#\14-1-15_exam\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.Properties.Resources.resources
+E:\Fdrive\ftfl c#\14-1-15_exam\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.StudentEntryUI.resources
+E:\Fdrive\ftfl c#\14-1-15_exam\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.csproj.GenerateResource.Cache
+E:\Fdrive\ftfl c#\14-1-15_exam\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.exe
+E:\Fdrive\ftfl c#\14-1-15_exam\UniversityApp\UniversityApp\UniversityApp\obj\Debug\UniversityApp.pdb

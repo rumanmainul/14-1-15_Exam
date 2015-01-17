@@ -1,0 +1,9 @@
+E:\Fdrive\ftfl c#\14-1-15_exam\ProductStoreApp\ProductStoreApp\bin\Debug\ProductStoreApp.exe.config
+E:\Fdrive\ftfl c#\14-1-15_exam\ProductStoreApp\ProductStoreApp\obj\Debug\ProductStoreApp.csprojResolveAssemblyReference.cache
+E:\Fdrive\ftfl c#\14-1-15_exam\ProductStoreApp\ProductStoreApp\obj\Debug\ProductStoreApp.UI.ProductUI.resources
+E:\Fdrive\ftfl c#\14-1-15_exam\ProductStoreApp\ProductStoreApp\obj\Debug\ProductStoreApp.Properties.Resources.resources
+E:\Fdrive\ftfl c#\14-1-15_exam\ProductStoreApp\ProductStoreApp\obj\Debug\ProductStoreApp.csproj.GenerateResource.Cache
+E:\Fdrive\ftfl c#\14-1-15_exam\ProductStoreApp\ProductStoreApp\bin\Debug\ProductStoreApp.exe
+E:\Fdrive\ftfl c#\14-1-15_exam\ProductStoreApp\ProductStoreApp\bin\Debug\ProductStoreApp.pdb
+E:\Fdrive\ftfl c#\14-1-15_exam\ProductStoreApp\ProductStoreApp\obj\Debug\ProductStoreApp.exe
+E:\Fdrive\ftfl c#\14-1-15_exam\ProductStoreApp\ProductStoreApp\obj\Debug\ProductStoreApp.pdb
